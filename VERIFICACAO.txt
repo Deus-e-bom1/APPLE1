@@ -1,0 +1,13 @@
+Verificação do pacote — 24/10/2026
+
+- Instalação limpa com npm ci: concluída.
+- Teste da página inicial: aprovado.
+- Compilação para Vercel: concluída, com .vercel/output/config.json, arquivos CSS/JS e função Node.js 22.
+- Execução de produção local: HTTP 200.
+- Página visível no computador e celular: conferida.
+- Ambos os botões Ver demonstração e fechamento da mensagem: aprovados.
+- Recarregamento da página: aprovado.
+- Erros de execução no navegador e respostas HTTP com erro nos fluxos testados: nenhum.
+- Publicação na conta Vercel do usuário: ainda não realizada.
+
+Leia README.md antes de enviar ao GitHub. Envie o conteúdo extraído, não o ZIP fechado.
